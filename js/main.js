@@ -7,7 +7,7 @@ import vMainWrapper from "./components/v-main-wrapper.js"
 createApp({
   data() {
     return {
-      title: "DirtyVue App"
+      title: "DV Title"
     }
   },
   template: /*template*/ `{{title}}`
